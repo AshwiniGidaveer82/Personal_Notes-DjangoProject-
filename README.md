@@ -1,5 +1,3 @@
-# Personal_Notes-DjangoProject-
-
 
 # Personal Notes Django Project
 
