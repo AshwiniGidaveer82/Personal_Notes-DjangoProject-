@@ -59,7 +59,7 @@ Now, you can access the application at `http://127.0.0.1:8000/`.
 
 Upon logging in, users will be able to create and manage their personal notes. Below is a screenshot of the homepage showing a list of the notes.
 
-![Homepage Screenshot](![image](https://github.com/user-attachments/assets/e125f2b1-52d9-4d12-8461-cb713b4abba8)
+![Homepage Screenshot](https://github.com/AshwiniGidaveer82/Personal_Notes-DjangoProject-/raw/main/path_to_your_screenshot.png)
 
 ## Repository
 
