@@ -65,7 +65,8 @@ Upon logging in, users will be able to create and manage their personal notes. B
 
 For more details and to explore the source code, visit the project repository on GitHub:
 
-[Personal Notes Django Project Repository](https://github.com/AshwiniGidaveer82/Personal_Notes-DjangoProject-)
+[Personal Notes Django Project Repository](![image](https://github.com/user-attachments/assets/d0d67ba9-3ee9-4465-abbb-f59b2d4a80dc)
+)
 
 ---
 
